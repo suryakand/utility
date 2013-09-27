@@ -13,7 +13,7 @@ import com.thoughtworks.robot.space.Plateau;
 /** 
  * Base implementation of {@link Robot} class.
  * @author sshinde
- *
+ * 
  */
 public class BaseRobot extends Robot {  
 

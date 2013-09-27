@@ -15,7 +15,7 @@ import com.thoughtworks.robot.space.Plateau;
  * @author sshinde
  *
  */
-public class BaseRobot extends Robot { 
+public class BaseRobot extends Robot {  
 
 	public BaseRobot(String startLocationString, MoveParser moveParser,
 			LocationParser locationParser, Plateau plateau) throws InvalidLocationString {

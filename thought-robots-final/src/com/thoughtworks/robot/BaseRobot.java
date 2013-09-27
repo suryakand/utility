@@ -10,7 +10,7 @@ import com.thoughtworks.robot.moves.Move;
 import com.thoughtworks.robot.moves.MoveParser;
 import com.thoughtworks.robot.space.Plateau;
 
-/**
+/** 
  * Base implementation of {@link Robot} class.
  * @author sshinde
  *
